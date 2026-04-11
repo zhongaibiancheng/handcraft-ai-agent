@@ -18,20 +18,20 @@
 
 ## 📚 教程目录
 
-| 课次 | 主题 | 核心内容 |
-|:---:|------|---------|
+|  课次  | 主题       | 核心内容                             |
+| :-----: | ---------- | ------------------------------------ |
 | 第 1 课 | 与模型对话 | Ollama + Qwen 跑起你的第一个 AI 程序 |
 
 ---
 
 ## 🛠️ 技术栈
 
-| 类别 | 工具 |
-|------|------|
+| 类别       | 工具                                    |
+| ---------- | --------------------------------------- |
 | 本地大模型 | [Ollama](https://ollama.com/) + Qwen2.5:7B |
-| 模型调用 | requests / OpenAI SDK / ollama SDK |
-| 编程语言 | Python 3.10+ |
-| Agent 框架 | LangChain、CrewAI 等 |
+| 模型调用   | requests / OpenAI SDK / ollama SDK      |
+| 编程语言   | Python 3.10+                            |
+| Agent 框架 | LangChain、CrewAI 等                    |
 
 ---
 
@@ -79,7 +79,7 @@ python ai_chat.py
 ## 📢 相关链接
 
 - 微信公众号：**开源情报局** — 同步发布教程完整版
-- CSDN：[链接待补充]
+- CSDN：[https://blog.csdn.net/weixin_37688407/article/details/160058646?spm=1001.2014.3001.5501]
 
 ---
 
